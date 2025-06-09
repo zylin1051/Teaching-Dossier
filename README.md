@@ -11,7 +11,7 @@ Hello and welcome to my teaching dossier. This repository provides a comprehensi
 - [Professional Development](professional-development.md)
 - [CV](./cv/cv-teaching-ziye-lin-20250606.pdf)
 
-## 🌐 Website Version (optional)
+## 🌐 Website Version
 
-If you're viewing this as a GitHub repository, a cleaner website version is available at:  
+A version of my teaching dossier is available at:  
 ➡️ [https://yourusername.github.io/teaching-dossier/](https://yourusername.github.io/teaching-dossier/)
