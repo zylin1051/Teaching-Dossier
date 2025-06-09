@@ -52,6 +52,8 @@ This section outlines my efforts to develop effecrtive teaching skills.
 
 ---
 
+## Summary Table
+
 | Activity                                    | Date           | Status           |
 |---------------------------------------------|----------------|------------------|
 | Fundamentals of University Teaching         | Ongoing (since Sep. 2024)      | In Progress      |
