@@ -11,7 +11,7 @@ Hello and welcome to my teaching dossier. This repository provides a comprehensi
 - [Teaching CV](cv-20250609.pdf)
 - [Professional Development](professional-development.md)
 
-## 🌐 Website Version
+<!-- ## 🌐 Website Version -->
 
-A version of my teaching dossier is available at:  
-➡️ [https://zylin1051.github.io/Teaching-Dossier/](https://zylin1051.github.io/Teaching-Dossier/)
+<!-- A version of my teaching dossier is available at:  -->
+<!-- ➡️ [https://zylin1051.github.io/Teaching-Dossier/](https://zylin1051.github.io/Teaching-Dossier/) -->
