@@ -1,6 +1,6 @@
 # 📖 Teaching Dossier — Ziye Lin
 
-Hello and welcome to my teaching dossier. This repository documents my approach to teaching, including my teaching materials, my history of professional development, and the feedback I reveived from observers.
+Hello and welcome to my teaching dossier. This repository provides a comprehensive overview of my development as an educator. It includes a record of my teaching experience, selected instructional materials, documentation of my professional development in teaching, and feedback received from students and teaching observers.
 
 ## 📚 Contents
 
