@@ -1,4 +1,4 @@
-# Teaching Dossier — Ziye Lin
+# 📖 Teaching Dossier — Ziye Lin
 
 Hello and welcome to my teaching dossier. This repository documents my approach to teaching, including my teaching materials, my history of professional development, and the feedback I reveived from observers.
 
