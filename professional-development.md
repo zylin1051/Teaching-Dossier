@@ -41,7 +41,7 @@ This section outlines my efforts to develop effecrtive teaching skills.
 
 ***Three peer-reviewed teaching sessions:***
 - Microteaching Session 1: Statistical Models and Maximum Likelihood Estimation [Slides](./materials/Microteaching-1-MATH900.pdf)
-- Microteaching Session 2: Expected Value and Variance [Slides](./materials/Microteaching-2-MATH900.pdf)
+- Microteaching Session 2: Expected Value and Variance [Slides](./materials/Microteaching-2-MATH900.pdf) [R code](./materials/Microteaching-2-Visualizing-Mean-and-Variance.R)
 - Microteaching Session 3: Gaussian Response Models [Slides](./materials/Microteaching-3-MATH900.pdf)
 
 ***Designed an assignment question with marking rubric:***
