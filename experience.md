@@ -17,6 +17,26 @@ This section summarizes my formal teaching roles in university-level courses.
 
 ---
 
+## Guest Lecture, University of Waterloo
+
+### [STAT 231 - Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/HJHyWKEmth) (Mar. 21, 2025)
+- Delivering a guest lecture to a class of 28 students
+- Covring basic concepts of Gaussian response models, confidence and prediction interval, model checking
+- [Lecture notes](./materials/STAT231-Guest-Lecture-Notes.pdf) and [details](./materials/STAT231-guest-lecture-details.pdf)
+- Recorded lecture availabl upon request
+
+---
+
+## Mathematics Tutoring Centre, University of Waterloo
+
+### [MATH 237 - Calculus III for Honours Mathematics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/rkej1YNmF2)
+**Role**: Tutor
+**Responsibilities:** 
+- Conducted one-on-one in-person tutoring sessions with students
+- Clarified course material and provided strategic hints for assignments
+
+---
+
 ## Graduate Teaching Assistantship, University of Waterloo
 
 ### [STAT 230 – Probability](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/SkybKN7Yn) (Spring 2025)
@@ -64,24 +84,4 @@ This section summarizes my formal teaching roles in university-level courses.
 - Monitoring online discussion forum to answer students' questions
 - Grading assignments and exams, and providing written feedback
 - Proctroing quizzes and exams
-
-## Guest Lecture, University of Waterloo
-
-### [STAT 231 - Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/HJHyWKEmth) (Mar. 21, 2025)
-- Delivering a guest lecture to a class of 28 students
-- Covring basic concepts of Gaussian response models, confidence and prediction interval, model checking
-- [Lecture notes](./materials/STAT231-Guest-Lecture-Notes.pdf) and [details](./materials/STAT231-guest-lecture-details.pdf)
-- Recorded lecture availabl upon request
-
----
-
-## Mathematics Tutoring Centre, University of Waterloo
-
-### [MATH 237 - Calculus III for Honours Mathematics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/rkej1YNmF2)
-**Role**: Tutor
-**Responsibilities:** 
-- Conducted one-on-one in-person tutoring sessions with students
-- Clarified course material and provided strategic hints for assignments
-
----
 
