@@ -4,10 +4,9 @@ This section summarizes my teaching roles in university-level courses.
 
 ---
 
-## Courses
+## Graduate Teaching Assistant
 
 ### STAT 230 – Probability (Spring 2025)
-**Role:** Teaching Assistant
 **Responsibilities:**
 - Tutorial Leader: Delivering tutorial sessions to approximately 40-50
 - Monitoring online discussion forum to answer students' questions
@@ -16,16 +15,14 @@ This section summarizes my teaching roles in university-level courses.
 
 ---
 
-### STAT 331 – Applied Linear Models (Spring 2025)
-**Role:** Teaching Assistant  
+### STAT 331 – Applied Linear Models (Spring 2025) 
 **Responsibilities:**
 - Grading assignments and exams, and providing written feedback
 - Proctroing quizzes and exams
   
 ---
 
-### STAT 330 – Mathematical Statistics (Winter 2025)
-**Role:** Teaching Assistant  
+### STAT 330 – Mathematical Statistics (Winter 2025) 
 **Responsibilities:**
 - Grading assignments and exams, and providing written feedback
 - Proctroing quizzes and exams
@@ -33,7 +30,6 @@ This section summarizes my teaching roles in university-level courses.
 ---
 
 ### STAT 332 - Sampling and Experimental Design (Winter 2025)
-**Role:** Teaching Assistant
 **Responsibilities:** 
 - Monitoring online discussion forum to answer students' questions
 - Grading assignments and exams, and providing written feedback
@@ -42,7 +38,6 @@ This section summarizes my teaching roles in university-level courses.
 ---
 
 ### STAT 230 – Probability (Fall 2024)
-**Role:** Teaching Assistant
 **Responsibilities:**
 - Monitoring online discussion forum to answer students' questions
 - Grading assignments and exams, and providing written feedback
@@ -51,27 +46,27 @@ This section summarizes my teaching roles in university-level courses.
 ---
 
 ### STAT 330 – Mathematical Statistics (Fall 2024)
-**Role:** Teaching Assistant  
 **Responsibilities:**
 - Holding in-person office to answer students' questions
 - Monitoring online discussion forum to answer students' questions
 - Grading assignments and exams, and providing written feedback
 - Proctroing quizzes and exams
 
-## 🗣️ Guest Lectures
+## Guest Lecturer
 
-- **STAT 330: Introduction to Survey Methods (Guest Lecturer, Winter 2024)**  
-  Delivered a 60-minute guest lecture on stratified sampling and estimation.
+### STAT 231 - Statistics (21 Mar. 2025)
+- Delivering a guest lecture to a class of 28 students
+- Covring basic concepts of Gaussian response models, confidence and prediction interval, model checking
 
 ---
 
-## 🎓 Tutoring & Peer Support
+## Tutor
 
-- **Private tutoring for undergraduate statistics courses**  
-  Topics included hypothesis testing, regression, and R programming.
-
-- **University of Waterloo Math and Stats Learning Centre (2022–2023)**  
-  Volunteer drop-in tutor for first-year statistics.
+### Mathematics Tutoring Centre, University of Waterloo
+**Responsibilities:** 
+- Course: MATH 237 - Calculus III for Honours Mathematics
+- Conducted one-on-one in-person tutoring sessions with students
+- Clarified course material and provided strategic hints for assignments
 
 ---
 
