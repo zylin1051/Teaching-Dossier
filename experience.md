@@ -72,7 +72,7 @@ This section summarizes my formal teaching roles in university-level courses.
 
 ---
 
-## 📅 Summary Table
+## Summary Table
 
 | Term/Date        | Course         | Role         | Teaching Format    |
 |-------------|----------------|--------------|---------------------|
