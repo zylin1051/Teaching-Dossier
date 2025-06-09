@@ -22,3 +22,34 @@ This section outlines my efforts to develop effecrtive teaching skills.
 - [CTE1111 - Teaching STEM Tutorials](https://uwaterloo.ca/centre-for-teaching-excellence/events/teaching-stem-tutorials-cte1111-14)
 - TBA
 - TBA
+
+---
+
+## [MATH 900 - University Mathematics Teaching Techniques](https://uwaterloo.ca/academic-calendar/graduate-studies/catalog#/courses/Byb2Q54mth)
+### Offered by Faculty of Mathematics, University of Waterloo
+
+**Description:**
+- A formal training course in university-level mathematics instruction
+- Studied course design, lecture effectiveness, assessment strategies, and student engagement
+- By completion, qualified to be appointed as a graduate instructor in the [Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) for undergraduate courses
+
+**Components:**
+
+***Guest Lecture:***
+- [STAT 231 - Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/HJHyWKEmth)
+- The lecture notes: [Notes](LINK)
+
+***Three peer-reviewed teaching sessions:***
+- Microteaching Session 1:
+- Microteaching Session 2:
+- Microteaching Session 3:
+
+***Designed an assignment question with marking rubric:***
+- [Sample Sampling Theory Question](LINK)
+
+***Authored a formal teaching statement:***
+- [Teaching Philosophy Statement]
+  
+
+
+  
