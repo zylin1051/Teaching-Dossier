@@ -2,6 +2,14 @@
 
 This section outlines my efforts to develop effecrtive teaching skills.
 
+## Summary Table
+
+| Activity                                    | Date           | Status           |
+|---------------------------------------------|----------------|------------------|
+| Fundamentals of University Teaching         | Ongoing (since Sep. 2024)      | In Progress      |
+| MATH 900                                    | Jan. 2025 - April. 2025| Completed|
+
+
 ---
 
 ## [Fundamentals of University Teaching Program](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/fundamentals-university-teaching-program) (In Progress)
@@ -53,14 +61,6 @@ This section outlines my efforts to develop effecrtive teaching skills.
 - [Teaching Philosophy Statement](philosophy.md)
 
 ---
-
-## Summary Table
-
-| Activity                                    | Date           | Status           |
-|---------------------------------------------|----------------|------------------|
-| Fundamentals of University Teaching         | Ongoing (since Sep. 2024)      | In Progress      |
-| MATH 900                                    | Jan. 2025 - April. 2025| Completed|
-
   
 
 
