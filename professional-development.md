@@ -45,10 +45,10 @@ This section outlines my efforts to develop effecrtive teaching skills.
 - Microteaching Session 3:
 
 ***Designed an assignment question with marking rubric:***
-- [Sample Sampling Theory Question](LINK)
+- [Sample Sampling Theory Question](./materials/Sample-Sampling-Theory-Assignment-Question-with-Grading-Scheme.pdf)
 
 ***Authored a formal teaching statement:***
-- [Teaching Philosophy Statement]
+- [Teaching Philosophy Statement](philosophy.md)
   
 
 
