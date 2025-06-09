@@ -6,7 +6,7 @@ Hello and welcome to my teaching dossier. This repository provides a comprehensi
 
 - [Teaching Philosophy Statement](philosophy.md)
 - [Teaching Experience](experience.md)
-- [Teaching Feedback](./feedback/teaching-feedback.pdf)
+- [Teaching Feedback](./feedback/)
 - [Teaching Materials](./materials/)
 - [Teaching CV](cv-20250609.pdf)
 - [Professional Development](professional-development.md)
