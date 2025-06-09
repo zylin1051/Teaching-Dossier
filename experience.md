@@ -82,5 +82,5 @@ This section summarizes my teaching roles in university-level courses.
 | Winter 2025 | STAT 332       | TA           |  Discussion Forum, Grading, Proctoring     |
 | Fall 2024  | STAT 230       | TA           | Discussion Forum, Grading, Proctoring |
 | Fall 2024  | STAT 330       | TA           | Office Hour, Discussion Forum, Grading, Proctoring|
-| Winter 2023 | MATH 237      | Tutor        | one-on-one tutoring |
+| Winter 2023 | MATH 237      | Tutor        | One-on-One Tutoring |
 
