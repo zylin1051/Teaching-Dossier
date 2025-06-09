@@ -7,9 +7,9 @@ Hello and welcome to my teaching dossier. This repository documents my approach 
 - [Teaching Philosophy Statement](philosophy.md)
 - [Teaching Experience](experience.md)
 - [Teaching Feedback](./feedback/teaching-feedback.pdf)
+- [Professional Development](development.md)
 - [Teaching Materials](./materials/)
 - [CV](./cv/cv-teaching-ziye-lin-20250606.pdf)
-- [Professional Development](development.md)
 
 ## 🌐 Website Version (optional)
 
