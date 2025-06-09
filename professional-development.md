@@ -15,4 +15,8 @@ This section outlines my efforts to develop effecrtive teaching skills.
 - Microteaching Session 1: TBA
 - Microteaching Session 2: TBA
   
-***Six Teaching Workshops:***
+***Four Teaching Workshops:***
+- [CTE1106 - Giving and Receiving Feedback](https://uwaterloo.ca/centre-for-teaching-excellence/events/giving-and-receiving-feedback-cte1106-16)
+- [CTE1111 - Teaching STEM Tutorials](https://uwaterloo.ca/centre-for-teaching-excellence/events/teaching-stem-tutorials-cte1111-14)
+- TBA
+- TBA
