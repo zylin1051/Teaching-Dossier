@@ -54,7 +54,7 @@ This section summarizes my teaching roles in university-level courses.
 
 ## Guest Lecture, University of Waterloo
 
-### [STAT 231 - Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/HJHyWKEmth) (21 Mar. 2025)
+### [STAT 231 - Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/HJHyWKEmth) (Mar. 21, 2025)
 - Delivering a guest lecture to a class of 28 students
 - Covring basic concepts of Gaussian response models, confidence and prediction interval, model checking
 - Recorded lecture availabl upon request
@@ -73,12 +73,14 @@ This section summarizes my teaching roles in university-level courses.
 
 ## 📅 Summary Table
 
-| Term        | Course         | Role         | Teaching Format    |
+| Term/Date        | Course         | Role         | Teaching Format    |
 |-------------|----------------|--------------|---------------------|
 | Spring 2025  | STAT 230       | TA           | Tutorials, Discussion Forum, Grading, Proctoring |
 | Spring 2025  | STAT 331       | TA           | Grading, Proctoring|
+| Mar. 21, 2025| STAT 231       | Guest Lecturer | Topice: Gaussian Response Models
 | Winter 2025 | STAT 330       | TA           | Grading, Proctoring       |
 | Winter 2025 | STAT 332       | TA           |  Discussion Forum, Grading, Proctoring     |
 | Fall 2024  | STAT 230       | TA           | Discussion Forum, Grading, Proctoring |
 | Fall 2024  | STAT 330       | TA           | Office Hour, Discussion Forum, Grading, Proctoring|
+| Winter 2023 | MATH 237      | Tutor        | one-on-one tutoring |
 
