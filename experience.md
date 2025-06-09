@@ -4,13 +4,13 @@ This section summarizes my teaching roles in university-level courses.
 
 ---
 
-## 🧑‍🏫 Courses & Tutorials
+## Courses
 
 ### STAT 230 – Probability (Spring 2025)
 **Role:** Teaching Assistant
 **Responsibilities:**
 - Tutorial Leader: Delivering tutorial sessions to approximately 40-50
-- Monitoring online discussion forum
+- Monitoring online discussion forum to answer students' questions
 - Grading assignments and exams, and providing written feedback
 - Proctoring quizzes and exams
 
@@ -23,6 +23,40 @@ This section summarizes my teaching roles in university-level courses.
 - Proctroing quizzes and exams
   
 ---
+
+### STAT 330 – Mathematical Statistics (Winter 2025)
+**Role:** Teaching Assistant  
+**Responsibilities:**
+- Grading assignments and exams, and providing written feedback
+- Proctroing quizzes and exams
+  
+---
+
+### STAT 332 - Sampling and Experimental Design (Winter 2025)
+**Role:** Teaching Assistant
+**Responsibilities:** 
+- Monitoring online discussion forum to answer students' questions
+- Grading assignments and exams, and providing written feedback
+- Proctroing quizzes and exams
+
+---
+
+### STAT 230 – Probability (Fall 2024)
+**Role:** Teaching Assistant
+**Responsibilities:**
+- Monitoring online discussion forum to answer students' questions
+- Grading assignments and exams, and providing written feedback
+- Proctoring quizzes and exams
+
+---
+
+### STAT 330 – Mathematical Statistics (Fall 2024)
+**Role:** Teaching Assistant  
+**Responsibilities:**
+- Holding in-person office to answer students' questions
+- Monitoring online discussion forum to answer students' questions
+- Grading assignments and exams, and providing written feedback
+- Proctroing quizzes and exams
 
 ## 🗣️ Guest Lectures
 
