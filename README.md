@@ -1,4 +1,5 @@
 # 📖 Teaching Dossier — Ziye Lin
+Date: 2025-06-09
 
 Hello and welcome to my teaching dossier. This repository provides a comprehensive overview of my development as an educator. It includes a record of my teaching experience, selected instructional materials, documentation of my professional development in teaching, and feedback received from students and teaching observers.
 
