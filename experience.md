@@ -54,7 +54,7 @@ This section summarizes my teaching roles in university-level courses.
 
 ## Guest Lecturer
 
-### STAT 231 - Statistics (21 Mar. 2025)
+### [STAT 231 - Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/HJHyWKEmth) (21 Mar. 2025)
 - Delivering a guest lecture to a class of 28 students
 - Covring basic concepts of Gaussian response models, confidence and prediction interval, model checking
 
