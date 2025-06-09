@@ -4,7 +4,7 @@ Hello and welcome to my teaching dossier. This repository documents my approach 
 
 ## 📚 Contents
 
-- [Teaching Philosophy](philosophy.md)
+- [Teaching Philosophy](Teaching-Philosophy-Statement-Ziye-Lin.md)
 - [Teaching Experience](teaching-experience.md)
 - [Teaching Materials](./teaching-materials/)
 - [Teaching CV](./cv/cv-teaching-ziye-lin-20250606.pdf)
