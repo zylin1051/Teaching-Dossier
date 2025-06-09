@@ -38,6 +38,7 @@ This section outlines my efforts to develop effecrtive teaching skills.
 ***Guest Lecture:***
 - [STAT 231 - Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/HJHyWKEmth)
 - [The lecture notes](./materials/STAT231-Guest-Lecture-Notes.pdf)
+- [The lecture details](./materials/STAT231-guest-lecture-details.pdf)
 
 ***Three peer-reviewed teaching sessions:***
 - Microteaching Session 1: Statistical Models and Maximum Likelihood Estimation - [Slides](./materials/Microteaching-1-MATH900.pdf)
