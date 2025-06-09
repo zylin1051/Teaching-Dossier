@@ -75,7 +75,10 @@ This section summarizes my teaching roles in university-level courses.
 
 | Term        | Course         | Role         | Teaching Format    |
 |-------------|----------------|--------------|---------------------|
-| Fall 2023   | STAT 340       | TA           | Tutorials, Office Hours |
-| Winter 2024 | STAT 341       | TA           | Labs, Q&A Support       |
-| Winter 2024 | STAT 330       | Guest Lecturer | One-time lecture     |
+| Spring 2025  | STAT 230       | TA           | Tutorials, Discussion Forum, Grading, Proctoring |
+| Spring 2025  | STAT 331       | TA           | Grading, Proctoring|
+| Winter 2025 | STAT 330       | TA           | Grading, Proctoring       |
+| Winter 2025 | STAT 332       | TA           |  Discussion Forum, Grading, Proctoring     |
+| Fall 2024  | STAT 230       | TA           | Discussion Forum, Grading, Proctoring |
+| Fall 2024  | STAT 330       | TA           | Office Hour, Discussion Forum, Grading, Proctoring|
 
