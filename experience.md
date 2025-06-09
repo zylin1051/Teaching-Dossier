@@ -4,7 +4,7 @@ This section summarizes my teaching roles in university-level courses.
 
 ---
 
-## Graduate Teaching Assistantship
+## Graduate Teaching Assistantship, University of Waterloo
 
 ### [STAT 230 – Probability](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/SkybKN7Yn) (Spring 2025)
 **Responsibilities:**
@@ -52,7 +52,7 @@ This section summarizes my teaching roles in university-level courses.
 - Grading assignments and exams, and providing written feedback
 - Proctroing quizzes and exams
 
-## Guest Lecture
+## Guest Lecture, University of Waterloo
 
 ### [STAT 231 - Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/HJHyWKEmth) (21 Mar. 2025)
 - Delivering a guest lecture to a class of 28 students
