@@ -37,7 +37,7 @@ This section outlines my efforts to develop effecrtive teaching skills.
 
 ***Guest Lecture:***
 - [STAT 231 - Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/HJHyWKEmth)
-- The lecture notes: [Notes](LINK)
+- The lecture notes: [Notes](https://github.com/zylin1051/Teaching-Dossier/blob/6a3ed53d98fa629aa2813d4725fdc8a8dcfa7702/materials/STAT231-Guest-Lecture-Notes.pdf)
 
 ***Three peer-reviewed teaching sessions:***
 - Microteaching Session 1:
