@@ -4,7 +4,7 @@ Hello and welcome to my teaching dossier. This repository documents my approach 
 
 ## 📚 Contents
 
-- [Teaching Philosophy](philosophy.md)
+- [Teaching Philosophy Statement](philosophy.md)
 - [Teaching Experience](teaching-experience.md)
 - [Teaching Feedback](./feedback/teaching-feedback.pdf)
 - [Teaching Materials](./teaching-materials/)
