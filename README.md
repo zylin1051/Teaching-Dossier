@@ -8,7 +8,7 @@ Hello and welcome to my teaching dossier. This repository documents my approach 
 - [Teaching Experience](teaching-experience.md)
 - [Teaching Feedback](./feedback/teaching-feedback.pdf)
 - [Teaching Materials](./teaching-materials/)
-- [Teaching CV](./cv/cv-teaching-ziye-lin-20250606.pdf)
+- [CV](./cv/cv-teaching-ziye-lin-20250606.pdf)
 - [Professional Development](development.md)
 
 ## 🌐 Website Version (optional)
