@@ -2,6 +2,19 @@
 
 This section summarizes my formal teaching roles in university-level courses.
 
+## Summary Table
+
+| Term/Date        | Course         | Role         | Teaching Format    |
+|-------------|----------------|--------------|---------------------|
+| Spring 2025  | STAT 230       | TA           | Tutorials, Discussion Forum, Grading, Proctoring |
+| Spring 2025  | STAT 331       | TA           | Grading, Proctoring|
+| Mar. 21, 2025| STAT 231       | Guest Lecturer | Topic: Gaussian Response Models
+| Winter 2025 | STAT 330       | TA           | Grading, Proctoring       |
+| Winter 2025 | STAT 332       | TA           |  Discussion Forum, Grading, Proctoring     |
+| Fall 2024  | STAT 230       | TA           | Discussion Forum, Grading, Proctoring |
+| Fall 2024  | STAT 330       | TA           | Office Hour, Discussion Forum, Grading, Proctoring|
+| Winter 2023 | MATH 237      | Tutor        | One-on-One Tutoring |
+
 ---
 
 ## Graduate Teaching Assistantship, University of Waterloo
@@ -71,17 +84,4 @@ This section summarizes my formal teaching roles in university-level courses.
 - Clarified course material and provided strategic hints for assignments
 
 ---
-
-## Summary Table
-
-| Term/Date        | Course         | Role         | Teaching Format    |
-|-------------|----------------|--------------|---------------------|
-| Spring 2025  | STAT 230       | TA           | Tutorials, Discussion Forum, Grading, Proctoring |
-| Spring 2025  | STAT 331       | TA           | Grading, Proctoring|
-| Mar. 21, 2025| STAT 231       | Guest Lecturer | Topic: Gaussian Response Models
-| Winter 2025 | STAT 330       | TA           | Grading, Proctoring       |
-| Winter 2025 | STAT 332       | TA           |  Discussion Forum, Grading, Proctoring     |
-| Fall 2024  | STAT 230       | TA           | Discussion Forum, Grading, Proctoring |
-| Fall 2024  | STAT 330       | TA           | Office Hour, Discussion Forum, Grading, Proctoring|
-| Winter 2023 | MATH 237      | Tutor        | One-on-One Tutoring |
 
