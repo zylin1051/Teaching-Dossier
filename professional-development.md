@@ -49,6 +49,14 @@ This section outlines my efforts to develop effecrtive teaching skills.
 
 ***Authored a formal teaching statement:***
 - [Teaching Philosophy Statement](philosophy.md)
+
+---
+
+| Activity                                    | Date           | Status           |
+|---------------------------------------------|----------------|------------------|
+| Fundamentals of University Teaching         | Ongoing (since Sep. 2024)      | In Progress      |
+| MATH 900                                    | Jan. 2025 - April. 2025| Complete|
+
   
 
 
