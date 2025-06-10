@@ -6,4 +6,4 @@
 
 ---
 
-[Back to Dossier Homepage](./README.md)
+[Back to Teaching Dossier Homepage](../README.md)
