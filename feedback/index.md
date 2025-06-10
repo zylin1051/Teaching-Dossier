@@ -1,9 +1,13 @@
 # The feedback I received on my teaching
 
-[Feedback](teaching-feedback.pdf)
+### MATH 900 Microteaching Session 1 (Jan. 13, 2025) - Feedback
 
-[Feedback 2](teaching-feedback-2.pdf)
 
----
+### MATH 900 Microteaching Session 3 (Mar. 13, 2025) - Feedback
+
+
+### STAT 231 Guest Lecture (Mar. 21, 2025) - Feedback
+
+
 
 [Back to Teaching Dossier Homepage](../README.md)
