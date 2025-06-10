@@ -9,3 +9,7 @@
   I place a high value on creating a respectful and inclusive learning environment for students. Different students learn at different paces, and I treat all of them kindly and patiently regardless of their performance and I am open to feedback and criticisms about my teaching. When I write my notes in class, I frequently pause at key points to give students time to think about them. I like to ask, ‘Is there anything unclear here that I can answer?’ and ‘What can I answer here?’ to tell students that it is okay to have things unclear and I am more than happy to answer their questions. When grading, I avoid using comments like “Wrong!” or “Please see the solution!” Instead, I point out specific parts that they did not do well and give advice on how they can improve next time to help navigate their learning process. Using these practices, I have noticed that students have become willing to reach out to me and discuss their work and the challenges they face during their studies.
 
   A teacher’s role has a profound impact on students’ learning experience. Poor teaching not only fails to teach the materials effectively but also suppresses students’ passion for further exploring the pool of knowledge they are interested in. That is why, as an educator and a mathematician, I am committed to good and effective teaching, and I am delighted to see that my students have been successful in their academic careers through their hard work.
+
+---
+
+[Back to Dossier Homepage](./README.md)
