@@ -25,7 +25,9 @@ This dossier has been prepared in support of teaching-focused academic applicati
 - [Professional Development](professional-development.md)
 
 ## Contact
-**Email: z294lin@uwaterloo.ca**
+📧 Email: z294lin@uwaterloo.ca  
+🔗 [GitHub](https://github.com/zylin1051)
+
 
 
 
