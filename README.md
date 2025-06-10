@@ -14,7 +14,7 @@ My research focuses on causal inference, particularly imputation-based methods f
 
 This dossier has been prepared in support of teaching-focused academic applications and to reflect my development as a post-secondary educator.
 
-## 📚 Contents
+## Contents
 
 **Use the links below to explore individual components of my dossier:**
 
