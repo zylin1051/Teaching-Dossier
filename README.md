@@ -18,11 +18,13 @@ Use the links below to explore individual components of my dossier:
 I am a Master of Mathematics candidate in Biostatistics at the University of Waterloo, Ontario, Canada🇨🇦.
 My research focuses on causal inference, particularly imputation-based methods for missing-by-design data within the potential outcomes framework. This background informs my teaching of applied statistics, especially in areas related to estimation, inference, and real-world data challenges.
 
+<br>
+
 [View my teaching CV](cv-20250609.pdf).
 
 ## Purpose
 
-This dossier has been prepared in support of teaching-focused academic applications and to reflect my development as a post-secondary educator. It showcases my instructional experience, teaching philosophy, professional growth, and feedback from students and peers — all of which demonstrate my commitment to high-quality, student-centered teaching in statistics and biostatistics.
+This dossier has been prepared in support of teaching-focused academic applications and to reflect my development as a post-secondary educator. It showcases my instructional experience, teaching philosophy, professional growth, and feedback from students and peers: all of which demonstrate my commitment to high-quality, student-centered teaching in mathematics.
 
 
 ## Contact
