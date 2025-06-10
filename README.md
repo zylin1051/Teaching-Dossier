@@ -1,15 +1,30 @@
 # 📖 Teaching Dossier — Ziye Lin
-## Updated: 2025-06-09
-Hello and welcome to my teaching dossier. This repository provides a comprehensive overview of my development as an educator. It includes a record of my teaching experience, selected instructional materials, documentation of my professional development in teaching, and feedback received from students and teaching observers.
+## Updated: June 9, 2025
+
+Hello and welcome to my teaching dossier. This repository provides an overview of my development as an educator. It highlights my teaching experience across various academic settings, showcases selected instructional materials I have created or delivered, and documents my ongoing professional development in teaching. It also includes feedback from students and teaching observers, which has informed and enriched my approach to instruction.
+
+## About Me
+
+I am a Master of Mathematics candidate in Biostatistics at the University of Waterloo, Ontario, Canada🇨🇦.
+My research focuses on causal inference, particularly imputation-based methods for missing-by-design data within the potential outcomes framework. This background informs my teaching of applied statistics, especially in areas related to estimation, inference, and real-world data challenges."
+
+Download my teaching CV [here](cv-20250609.pdf).
 
 ## 📚 Contents
+
+**Use the links below to explore individual components of my dossier:**
 
 - [Teaching Philosophy Statement](philosophy.md)
 - [Teaching Experience](experience.md)
 - [Teaching Feedback](./feedback/)
 - [Teaching Materials](./materials/)
-- [Teaching CV](cv-20250609.pdf)
 - [Professional Development](professional-development.md)
+
+## Contact
+**Email: z294lin@uwaterloo.ca**
+
+
+
 
 <!-- ## 🌐 Website Version -->
 
