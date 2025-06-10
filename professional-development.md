@@ -61,6 +61,9 @@ This section outlines my efforts to develop effecrtive teaching skills.
 - [Teaching Philosophy Statement](philosophy.md)
 
 ---
+
+[Back to Dossier Homepage](./README.md)
+
   
 
 
