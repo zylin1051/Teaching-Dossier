@@ -17,11 +17,16 @@ This section summarizes my formal teaching roles in university-level courses.
 
 ---
 
-## Guest Lecture, University of Waterloo
+## Lecture, University of Waterloo
 
-### [STAT 231 - Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/HJHyWKEmth) (Mar. 21, 2025)
-- Delivering a guest lecture to a class of 28 students
-- Covring basic concepts of Gaussian response models, confidence and prediction interval, model checking
+### [STAT 231 - Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/HJHyWKEmth)
+
+**Date:** Mar. 21, 2025
+
+**Role:** Guest lecturer
+
+- Delivered a guest lecture to a class of 28 students
+- Covered basic concepts of Gaussian response models, derivation of confidence and prediction interval, procedure for model checking
 - [Lecture notes](./materials/STAT231-Guest-Lecture-Notes.pdf) and [details](./materials/STAT231-guest-lecture-details.pdf)
 - Recorded lecture availabl upon request
 
@@ -30,7 +35,11 @@ This section summarizes my formal teaching roles in university-level courses.
 ## Mathematics Tutoring Centre, University of Waterloo
 
 ### [MATH 237 - Calculus III for Honours Mathematics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/rkej1YNmF2)
-**Role**: Tutor
+
+**Term:** Winter 2023
+
+**Role:** Tutor
+
 **Responsibilities:** 
 - Conducted one-on-one in-person tutoring sessions with students
 - Clarified course material and provided strategic hints for assignments
@@ -39,7 +48,10 @@ This section summarizes my formal teaching roles in university-level courses.
 
 ## Graduate Teaching Assistantship, University of Waterloo
 
-### [STAT 230 – Probability](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/SkybKN7Yn) (Spring 2025)
+### [STAT 230 – Probability](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/SkybKN7Yn) 
+
+**Term:** Spring 2025
+
 **Responsibilities:**
 - Tutorial Leader: Delivering tutorial sessions to approximately 40-50
 - Monitoring online discussion forum to answer students' questions
@@ -48,21 +60,30 @@ This section summarizes my formal teaching roles in university-level courses.
 
 ---
 
-### [STAT 331 – Applied Linear Models](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/H1E1WY47K3) (Spring 2025) 
+### [STAT 331 – Applied Linear Models](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/H1E1WY47K3)
+
+**Term:** Spring 2025
+
 **Responsibilities:**
 - Grading assignments and exams, and providing written feedback
 - Proctroing quizzes and exams
   
 ---
 
-### [STAT 330 – Mathematical Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/Sk1WtN7Yn) (Winter 2025) 
+### [STAT 330 – Mathematical Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/Sk1WtN7Yn)
+
+**Term:** Winter 2025
+
 **Responsibilities:**
 - Grading assignments and exams, and providing written feedback
 - Proctroing quizzes and exams
   
 ---
 
-### [STAT 332 - Sampling and Experimental Design](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/BkHyWFEXFh) (Winter 2025)
+### [STAT 332 - Sampling and Experimental Design](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/BkHyWFEXFh)
+
+**Term:** Winter 2025
+
 **Responsibilities:** 
 - Monitoring online discussion forum to answer students' questions
 - Grading assignments and exams, and providing written feedback
@@ -70,7 +91,10 @@ This section summarizes my formal teaching roles in university-level courses.
 
 ---
 
-### [STAT 230 – Probability](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/SkybKN7Yn) (Fall 2024)
+### [STAT 230 – Probability](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/SkybKN7Yn)
+
+**Term:** Fall 2024
+
 **Responsibilities:**
 - Monitoring online discussion forum to answer students' questions
 - Grading assignments and exams, and providing written feedback
@@ -78,7 +102,10 @@ This section summarizes my formal teaching roles in university-level courses.
 
 ---
 
-### [STAT 330 – Mathematical Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/Sk1WtN7Yn) (Fall 2024)
+### [STAT 330 – Mathematical Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/Sk1WtN7Yn)
+
+**Term:** Fall 2024
+
 **Responsibilities:**
 - Holding in-person office to answer students' questions
 - Monitoring online discussion forum to answer students' questions
