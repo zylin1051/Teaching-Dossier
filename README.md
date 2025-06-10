@@ -20,7 +20,7 @@ My research focuses on causal inference, particularly imputation-based methods f
 
 <br>
 
-[View my teaching CV](cv-20250609.pdf).
+[View my teaching CV](cv-20250609.pdf)
 
 ## Purpose
 
