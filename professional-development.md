@@ -1,6 +1,6 @@
 # Professional Development
 
-This section outlines my efforts to develop effecrtive teaching skills.
+This section outlines my efforts to develop effective teaching skills.
 
 ## Summary Table
 
