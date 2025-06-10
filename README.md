@@ -20,7 +20,6 @@ Use the links below to explore individual components of my dossier:
 I am a Master of Mathematics candidate in Biostatistics at the University of Waterloo, Ontario, Canada🇨🇦.
 My research focuses on causal inference, particularly imputation-based methods for missing-by-design data within the potential outcomes framework. This background informs my teaching of applied statistics, especially in areas related to estimation, inference, and real-world data challenges.
 
-<br>
 
 [View my teaching CV](cv-20250609.pdf)
 
@@ -30,8 +29,8 @@ This dossier has been prepared in support of teaching-focused academic applicati
 
 
 ## Contact
-Email: z294lin@uwaterloo.ca  
-GitHub: [https://github.com/zylin1051](https://github.com/zylin1051)
+Email: [z294lin@uwaterloo.ca](mailto:z294lin@uwaterloo.ca)  
+<!-- GitHub: [https://github.com/zylin1051](https://github.com/zylin1051) -->
 
 
 
