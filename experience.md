@@ -87,5 +87,5 @@ This section summarizes my formal teaching roles in university-level courses.
 
 ---
 
-[Back to Dossier Homepage](./README.md)
+[Back to Teaching Dossier Homepage](./README.md)
 
