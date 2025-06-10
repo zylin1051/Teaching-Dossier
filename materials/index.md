@@ -12,6 +12,6 @@ MATH 900 - Microteaching Session 3 Slides - [Slides](Microteaching-3-MATH900.pdf
 
 ---
 
-[🔙 Back to Teaching Dossier Homepage](../README.md)
+[Back to Teaching Dossier Homepage](../README.md)
 
 
