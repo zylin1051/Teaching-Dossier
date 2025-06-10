@@ -16,7 +16,7 @@ This dossier has been prepared in support of teaching-focused academic applicati
 
 ## Contents
 
-**Use the links below to explore individual components of my dossier:**
+Use the links below to explore individual components of my dossier:
 
 - [Teaching Philosophy Statement](philosophy.md)
 - [Teaching Experience](experience.md)
