@@ -19,7 +19,7 @@ I am a Master of Mathematics candidate in Biostatistics at the University of Wat
 My research focuses on causal inference, particularly imputation-based methods for missing-by-design data within the potential outcomes framework. This background informs my teaching of applied statistics, especially in areas related to estimation, inference, and real-world data challenges.
 
 
-[View my teaching CV](cv-20250609.pdf)
+[View my teaching CV](Ziye_Lin_CV_20250611.pdf.pdf)
 
 ## Purpose
 
