@@ -1,3 +1,4 @@
+<a name="top"></a>
 # Teaching Experience
 
 This section summarizes my formal teaching roles in university-level courses.
@@ -113,6 +114,8 @@ This section summarizes my formal teaching roles in university-level courses.
 - Proctroing quizzes and exams
 
 ---
+[Back to Top](#top)
 
+---
 [Back to Teaching Dossier Homepage](./README.md)
 
