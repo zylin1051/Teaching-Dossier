@@ -1,3 +1,4 @@
+<a name="top"></a>
 # Professional Development
 
 This section outlines my efforts to develop effective teaching skills.
@@ -61,7 +62,9 @@ This section outlines my efforts to develop effective teaching skills.
   - [Teaching Philosophy Statement](philosophy.md)
 
 ---
+[Back to Top](#top)
 
+---
 [Back to Teaching Dossier Homepage](./README.md)
 
   
