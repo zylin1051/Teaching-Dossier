@@ -17,7 +17,7 @@ This section summarizes my formal teaching roles in university-level courses.
 
 ---
 
-## Lecture, University of Waterloo
+## Guest Lecture, University of Waterloo
 
 ### [STAT 231 - Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/HJHyWKEmth)
 
@@ -28,7 +28,7 @@ This section summarizes my formal teaching roles in university-level courses.
 - Delivered a guest lecture to a class of 28 students
 - Covered basic concepts of Gaussian response models, derivation of confidence and prediction interval, procedure for model checking
 - [Lecture notes](./materials/STAT231-Guest-Lecture-Notes.pdf) and [details](./materials/STAT231-guest-lecture-details.pdf)
-- Recorded lecture availabl upon request
+- Recorded lecture available upon request
 
 ---
 
