@@ -28,7 +28,7 @@ This dossier has been prepared in support of teaching-focused academic applicati
 
 ## Contact
 Email: [z294lin@uwaterloo.ca](mailto:z294lin@uwaterloo.ca)  
-<!-- GitHub: [https://github.com/zylin1051](https://github.com/zylin1051) -->
+GitHub: [https://github.com/zylin1051](https://github.com/zylin1051)
 
 ---
 
