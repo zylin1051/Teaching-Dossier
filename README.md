@@ -1,5 +1,5 @@
 # 📖 Teaching Dossier — Ziye Lin
-### Updated: June 12, 2025
+### Updated: June 16, 2025
 
 Hello and welcome to my teaching dossier. This teaching dossier provides an overview of my development as an educator. It highlights my teaching experience across various academic settings, showcases selected instructional materials I have created or delivered, and documents my ongoing professional development in teaching. It also includes feedback from students and teaching observers, which has informed and enriched my approach to instruction.
 
