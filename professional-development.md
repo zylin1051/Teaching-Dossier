@@ -32,7 +32,7 @@ This section outlines my efforts to develop effective teaching skills.
   - [CTE 1106 - Giving and Receiving Feedback](https://uwaterloo.ca/centre-for-teaching-excellence/events/giving-and-receiving-feedback-cte1106-16)
   - [CTE 1111 - Teaching STEM Tutorials](https://uwaterloo.ca/centre-for-teaching-excellence/events/teaching-stem-tutorials-cte1111-14)
   - [CTE 1217 - Teaching Methods](https://uwaterloo.ca/centre-for-teaching-excellence/events/teaching-methods-cte1217-31)
-  - Details TBA
+  - [CTE 1234 - Teaching with Confidence](https://uwaterloo.ca/centre-for-teaching-excellence/events/teaching-confidence-cte1234-12)
 
 ---
 
