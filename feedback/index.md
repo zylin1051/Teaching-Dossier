@@ -1,4 +1,4 @@
-# The feedback I received on my teaching
+# Feedback I received on my teaching
 
 ### MATH 900 Microteaching Session 1 (Jan. 13, 2025) - [Feedback](microteaching-1-jan-23.pdf)
 
