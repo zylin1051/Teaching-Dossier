@@ -1,5 +1,4 @@
-# Some of the teaching materials that I used or created before
-
+# Some of the materials I used or created for teaching
 ## STAT 231 - Guest Lecture 
 - [Lecture Notes](STAT231-Guest-Lecture-Notes.pdf)
 - Recorded lecture available upon request
