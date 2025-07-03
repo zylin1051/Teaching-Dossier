@@ -13,26 +13,20 @@ This section outlines my efforts to develop effective teaching skills.
 
 ---
 
-## [Fundamentals of University Teaching Program](https://uwaterloo.ca/centre-for-teaching-excellence/support-graduate-students/fundamentals-university-teaching-program) (In Progress)
+## University Teaching Workshops
 ### Offered by the Centre for Teaching Excellence, University of Waterloo
 
-*(Expected completion: August 2025)*
-
 **Description:** 
-- A professional development program for post-secondary teaching
-- Recognized across Canadian universities as a fundational teaching preparation credential
-
-**Main Components:**
-
-- Two peer-reviewed teaching sessions:
-  - Microteaching Session 1: Details TBA
-  - Microteaching Session 2: Details TBA
   
-- Four teaching workshops:
+- Four professional development program for post-secondary teaching:
   - [CTE 1106 - Giving and Receiving Feedback](https://uwaterloo.ca/centre-for-teaching-excellence/events/giving-and-receiving-feedback-cte1106-16)
+    - Explored effective feedback strategies for teaching, focusing on phrasing, timing, utility, and emotional impact. Developed practical approaches to enhance student learning and engagement through constructive feedback
   - [CTE 1111 - Teaching STEM Tutorials](https://uwaterloo.ca/centre-for-teaching-excellence/events/teaching-stem-tutorials-cte1111-14)
+    - Focused on designing effective tutorials in STEM disciplines. Covered strategies for planning, running, and assessing tutorials with an emphasis on active learning and student engagement. Included hands-on development of tutorial plans and peer feedback
   - [CTE 1217 - Teaching Methods](https://uwaterloo.ca/centre-for-teaching-excellence/events/teaching-methods-cte1217-31)
+    - Explored the principles and benefits of active learning. Gained practical strategies and a toolkit of activities to increase student engagement, compare active learning with traditional lecturing, and design and implement interactive classroom activities
   - [CTE 1234 - Teaching with Confidence](https://uwaterloo.ca/centre-for-teaching-excellence/events/teaching-confidence-cte1234-12)
+    - Examined common causes of low teaching confidence among graduate instructors and explored mindset shifts and practical strategies to strengthen confidence and effectiveness in the classroom
 
 ---
 
