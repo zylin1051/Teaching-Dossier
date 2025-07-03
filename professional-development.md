@@ -18,7 +18,7 @@ This section outlines my efforts to develop effective teaching skills.
 
 **Description:** 
   
-- Four professional development program for post-secondary teaching:
+- Participated in four professional development program for post-secondary teaching:
   - [CTE 1106 - Giving and Receiving Feedback](https://uwaterloo.ca/centre-for-teaching-excellence/events/giving-and-receiving-feedback-cte1106-16)
     - Explored effective feedback strategies for teaching, focusing on phrasing, timing, utility, and emotional impact. Developed practical approaches to enhance student learning and engagement through constructive feedback
   - [CTE 1111 - Teaching STEM Tutorials](https://uwaterloo.ca/centre-for-teaching-excellence/events/teaching-stem-tutorials-cte1111-14)
