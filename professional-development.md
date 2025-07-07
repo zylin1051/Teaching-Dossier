@@ -3,17 +3,7 @@
 
 This section outlines my efforts to develop effective teaching skills.
 
-## Summary Table
-
-| Program                                    | Date           | Status           |
-|---------------------------------------------|----------------|------------------|
-| Fundamentals of University Teaching         | Ongoing (since Jan. 2025) | In Progress|
-| MATH 900                                    | Jan. 2025 - April. 2025| Completed|
-
-
----
-
-## University Teaching Workshops
+## Fundamentals of University Teaching Workshops
 ### Offered by the Centre for Teaching Excellence, University of Waterloo
 
 **Description:** 
