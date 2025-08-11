@@ -11,7 +11,7 @@ Use the links below to explore individual components of my dossier:
 - [Teaching Experience](experience.md)
 - [Teaching Feedback](./feedback/)
 - [Teaching Materials](./materials/)
-- [Professional Development](professional-development.md)
+- [Teaching and Professional Development](professional-development.md)
 
 ## About Me
 
