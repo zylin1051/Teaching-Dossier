@@ -15,7 +15,7 @@ Use the links below to explore individual components of my dossier:
 
 ## About Me
 
-I am a Master of Mathematics candidate in Biostatistics at the University of Waterloo, Ontario, Canada🇨🇦.
+I obtained my Master of Mathematics in Biostatistics at the University of Waterloo, Ontario, Canada🇨🇦.
 My research focuses on causal inference, particularly imputation-based methods for missing-by-design data within the potential outcomes framework. This background informs my teaching of applied statistics, especially in areas related to estimation, inference, and real-world data challenges.
 
 
