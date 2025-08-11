@@ -13,7 +13,7 @@ Use the links below to explore individual components of my dossier:
 - [Teaching Materials](./materials/)
 - [Teaching and Professional Development](professional-development.md)
 
-## Academic Background
+## Background
 
 I obtained my BMath (Statistics) and MMath (Biostatistics) from the University of Waterloo, Ontario, Canada🇨🇦.
 My research focuses on causal inference, particularly imputation-based methods for missing-by-design data within the potential outcomes framework. This background informs my teaching of applied statistics, especially in areas related to estimation, inference, and real-world data challenges.
