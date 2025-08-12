@@ -13,6 +13,14 @@
 
 ---
 
+## ACTSC 991 (Managing Longevity Risk) - Paper Presentation
+
+- [Slides](presentation_actsc991.pdf)
+
+## STAT 935 (Analysis of Survival Data) - Paper Presentation
+
+- [Slides](presentation_stat935.pdf)
+
 ## Sample Assessment
 - [Simple Random Sampling Assignment Quesiton and Marking Scheme ](Sample-Sampling-Theory-Assignment-Question-with-Grading-Scheme.pdf)
 
