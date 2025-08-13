@@ -22,7 +22,7 @@
 - [Slides](presentation_stat935.pdf)
 
 ## Sample Assessment
-- [Simple Random Sampling Assignment Quesiton and Marking Scheme ](Sample-Sampling-Theory-Assignment-Question-with-Grading-Scheme.pdf)
+- [Simple Random Sampling Assignment Question and Marking Scheme ](Sample-Sampling-Theory-Assignment-Question-with-Grading-Scheme.pdf)
 
 ---
 
