@@ -2,14 +2,16 @@
 
 ### Updated: Aug 12, 2025
 
-
-### Contact
-Email: [z294lin@uwaterloo.ca](mailto:z294lin@uwaterloo.ca)  
-GitHub: [https://github.com/zylin1051](https://github.com/zylin1051)
-
 ---
 
 Hello and welcome to my teaching dossier. This teaching dossier provides an overview of my development as an educator. It highlights my teaching experience across various academic settings, showcases selected instructional materials I have created or delivered, and documents my ongoing professional development in teaching. It also includes feedback from students and teaching observers, which has informed and enriched my approach to instruction. 
+
+---
+
+
+## Contact
+Email: [z294lin@uwaterloo.ca](mailto:z294lin@uwaterloo.ca)  
+GitHub: [https://github.com/zylin1051](https://github.com/zylin1051)
 
 ## Contents
 
@@ -24,12 +26,12 @@ Use the links below to explore individual components of my dossier:
 
 ## Background
 
+[View my teaching CV](Ziye_Lin_CV.pdf)
+
 I obtained my BMath (Statistics) and MMath (Biostatistics) from the University of Waterloo, Ontario, Canada.
 My research focus is on imputation-based methods for handling missing-by-design data in the potential outcomes framework of causal inference. This background informs my teaching of applied statistics, especially in areas related to estimation, inference, and real-world data challenges.
 
 I have actively engaged in teaching activities and developed effective teaching skills during my studies at the University of Waterloo. These experiences include delivering tutorials and guest lectures, tutoring undergraduate courses, holding office hours, and participating in teaching workshops. I have also completed a formal teaching training course, which qualified me to be appointed as a course instrucutor in the Department of Statistics and Actuarial Science at the University of Waterloo. My passion for teaching extends beyond the post-secondary level to secondary education, where I plan to pursue a Bachelor of Education in Ontario, Canada, in the future.
-
-[View my teaching CV](Ziye_Lin_CV.pdf)
 
 
 <!--## Purpose-->
