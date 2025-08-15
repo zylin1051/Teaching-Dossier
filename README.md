@@ -22,7 +22,6 @@ Use the links below to explore individual components of my dossier:
 - [Teaching Feedback](./feedback/)
 - [Teaching Materials](./materials/)
 - [Teaching and Professional Development](professional-development.md)
-- [Abstract of My Master's Paper](mrp_abstract.md)
 
 ## Background
 
