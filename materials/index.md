@@ -1,5 +1,6 @@
 # Some of the materials I used or created for teaching
 ## STAT 231 - Guest Lecture 
+- Topic: Gaussian response models
 - [Lecture Notes](STAT231-Guest-Lecture-Notes.pdf)
 
 ---
@@ -14,11 +15,16 @@
 
 ## ACTSC 991 (Managing Longevity Risk) - Paper Seminar
 
-- [Slides](presentation_actsc991.pdf)
+
+- Paper: Bayesian mortality modelling with pandemics: a vanishing jump approach
+- Authors: Julius Goes, Karim Barigou, Anne Leucht
+- [Seminar Slides](presentation_actsc991.pdf)
 
 ## STAT 935 (Analysis of Survival Data) - Paper Seminar
 
-- [Slides](presentation_stat935.pdf)
+- Paper: Multi-state models for event history analysis
+- Authors: Per Kragh Andersen, Niels Keiding
+- [Seminar Slides](presentation_stat935.pdf)
 
 ## Sample Assessment
 - [Sampling Assignment Question and Marking Scheme](Sample-Sampling-Theory-Assignment-Question-with-Grading-Scheme.pdf)
