@@ -1,4 +1,4 @@
-# Some of the materials I used or created for teaching
+# Selected Teaching Materials
 ## STAT 231 - Guest Lecture 
 - Topic: Gaussian response models
 - [Lecture Notes](STAT231-Guest-Lecture-Notes.pdf)
