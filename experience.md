@@ -7,13 +7,13 @@ This section summarizes my formal teaching roles in university-level courses.
 
 | Term/Date        | Course         | Role         | Teaching Format    |
 |-------------|----------------|--------------|---------------------|
-| May. 2025 – Aug. 2025  | STAT 230       | TA           | Tutorials, Discussion Forum, Grading, Proctoring |
-| May. 2025 – Aug. 2025  | STAT 331       | TA           | Grading, Proctoring|
+| May. 2025 – Aug. 2025  | STAT 230       | Teaching Assistant      | Tutorials, Discussion Forum, Grading, Proctoring |
+| May. 2025 – Aug. 2025  | STAT 331       | Teaching Assistant           | Grading, Proctoring|
 | Mar. 21, 2025| STAT 231       | Guest Lecturer | **Topic:** Gaussian Response Models
-| Jan. 2025 - Apr. 2025 | STAT 330       | TA           | Grading, Proctoring       |
-| Jan. 2025 - Apr. 2025 | STAT 332       | TA           |  Discussion Forum, Grading, Proctoring     |
-| Sep. 2024 - Dec. 2024  | STAT 230       | TA           | Discussion Forum, Grading, Proctoring |
-| Sep. 2024 - Dec. 2024  | STAT 330       | TA           | Office Hour, Discussion Forum, Grading, Proctoring|
+| Jan. 2025 - Apr. 2025 | STAT 330       | Teaching Assistant           | Grading, Proctoring       |
+| Jan. 2025 - Apr. 2025 | STAT 332       | Teaching Assistant           |  Discussion Forum, Grading, Proctoring     |
+| Sep. 2024 - Dec. 2024  | STAT 230       | Teaching Assistant           | Discussion Forum, Grading, Proctoring |
+| Sep. 2024 - Dec. 2024  | STAT 330       | Teaching Assistant           | Office Hour, Discussion Forum, Grading, Proctoring|
 | Jan. 2023 - Apr. 2023 | MATH 237      | Tutor        | One-on-One Tutoring |
 
 ---
