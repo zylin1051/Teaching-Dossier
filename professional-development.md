@@ -1,5 +1,5 @@
 <a name="top"></a>
-# Teaching and Professional Development
+# Professional Development
 
 This section outlines my efforts to develop effective teaching skills.
 
