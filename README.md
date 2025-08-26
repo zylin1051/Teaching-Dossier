@@ -25,7 +25,7 @@ Use the links below to explore individual components of my dossier:
 
 ## Background
 
-[View my teaching CV](Ziye_Lin_CV.pdf)
+[View my CV](Ziye_Lin_CV.pdf)
 
 I obtained my MMath in Biostatistics from the University of Waterloo, Ontario, Canada.
 My research focus is on imputation-based methods for handling missing-by-design data in the potential outcomes framework of causal inference. This background informs my teaching of applied statistics, especially in areas related to estimation, inference, and real-world data challenges.
