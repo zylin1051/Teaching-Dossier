@@ -1,6 +1,6 @@
 # 📖 Teaching Dossier — Ziye Lin
 
-### Updated: Aug 25, 2025
+### Updated: Aug 27, 2025
 
 ---
 
