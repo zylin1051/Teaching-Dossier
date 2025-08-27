@@ -20,8 +20,8 @@ Use the links below to explore individual components of my dossier:
 - [Teaching Philosophy Statement](philosophy.md)
 - [Teaching Experience](experience.md)
 - [Teaching Feedback](./feedback/)
-- [Teaching Materials](./materials/)
-- [Teaching and Professional Development](professional-development.md)
+- [Teaching Material](./materials/)
+- [Professional Development](professional-development.md)
 
 ## Background
 
