@@ -7,6 +7,7 @@ This section summarizes my formal teaching roles in university-level courses.
 
 | Term/Date        | Course         | Role         | Teaching Format    |
 |-------------|----------------|--------------|---------------------|
+| Nov. 2025 - Ongoing | OSSD Subjects | Secondary School Teacher | Full-time Teaching
 | May. 2025 – Aug. 2025  | STAT 230       | Teaching Assistant      | Tutorials, Discussion Forum, Grading, Proctoring |
 | May. 2025 – Aug. 2025  | STAT 331       | Teaching Assistant           | Grading, Proctoring|
 | Mar. 21, 2025| STAT 231       | Guest Lecturer | **Topic:** Gaussian Response Models
@@ -17,6 +18,13 @@ This section summarizes my formal teaching roles in university-level courses.
 | Jan. 2023 - Apr. 2023 | MATH 237      | Tutor        | One-on-One Tutoring |
 
 ---
+
+## Secondary School Teaching, William Academy
+
+**Date:** Nov. 2025 - Ongoing
+
+**Responsibilities:**
+- Teaching OSSD credit courses according to Ontario Ministry of Education's Curriculum
 
 ## Guest Lecture, University of Waterloo
 
