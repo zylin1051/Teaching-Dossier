@@ -1,6 +1,6 @@
 # 📖 Teaching Dossier — Ziye Lin
 
-### Updated: Sep 29, 2025
+### Updated: Oct 21, 2025
 
 ---
 
@@ -10,7 +10,7 @@ Hello and welcome to my teaching dossier. This teaching dossier provides an over
 
 
 ## Contact
-Email: [z294lin@uwaterloo.ca](mailto:z294lin@uwaterloo.ca)  
+Email: [connzylin@gmail.com](mailto:connzylin@gmail.com)  
 <!--GitHub: [https://github.com/zylin1051](https://github.com/zylin1051)-->
 
 ## Contents
@@ -25,7 +25,7 @@ Use the links below to explore individual components of my dossier:
 
 ## Background
 
-I obtained my Bachelor of Mathematics in Statistics and Master of Mathematics in Biostatistics from the University of Waterloo, Ontario, Canada. Prior to my studies at Waterloo, I completed my Ontario Secondary School Diploma in Mississauga, Ontario, Canada, where I received the Governor General of Canada's Academic Bronze Medal in 2019. My bachelor's coursework involves advanced calculus, differential equation, mathematical statistics and probability theory, and applied physics. My master's research focuses on imputation-based methods for handling missing-by-design data in the potential outcomes framework of causal inference. 
+I obtained my Bachelor of Mathematics in Statistics and Master of Mathematics in Biostatistics from the University of Waterloo, Ontario, Canada. Prior to my studies at Waterloo, I completed my Ontario Secondary School Diploma in Mississauga, Ontario, Canada, where I received the Governor General of Canada's Academic Bronze Medal in 2019. My coursework involves advanced calculus, differential equation, mathematical statistics and probability, survival analysis, and applied physics. My research focuses on imputation-based methods for handling missing-by-design data in the potential outcomes framework of causal inference. 
 
 I have actively engaged in teaching activities and developed effective teaching skills throughout my studies at the University of Waterloo. These experiences include delivering tutorials and guest lectures, tutoring undergraduate courses, holding office hours to provide individual help to students, and participating in teaching workshops. I have also completed a formal teaching training course, which qualified me to be appointed as a graduate instructor in the Department of Statistics and Actuarial Science at the University of Waterloo. My passion for teaching extends beyond the post-secondary level to secondary education as well.
 
