@@ -1,7 +1,7 @@
 <a name="top"></a>
 # Teaching Experience
 
-This section summarizes my formal teaching roles in university-level courses.
+This section summarizes my formal teaching roles.
 
 ## Summary Table
 
@@ -19,14 +19,19 @@ This section summarizes my formal teaching roles in university-level courses.
 
 ---
 
-## Secondary School Teaching, William Academy
+## Secondary School Teaching, William Academy - Cobourg, ON, Canada
 
 **Date:** Nov. 2025 - Ongoing
 
 **Responsibilities:**
 - Teaching OSSD credit courses according to Ontario Ministry of Education's Curriculum
 
-## Guest Lecture, University of Waterloo
+**Courses I teach:**
+- MCV4U (Calculus and Vectors, Ontario Grade 12)
+- SPH3U (Physics, Ontario Grade 11)
+- ICS3U (Introduction to Computer Science, Ontario Grade 11)
+
+## Guest Lecture, University of Waterloo - Waterloo, ON, Canada
 
 ### [STAT 231 - Statistics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/HJHyWKEmth)
 
@@ -41,7 +46,7 @@ This section summarizes my formal teaching roles in university-level courses.
 
 ---
 
-## Graduate Teaching Assistantship, University of Waterloo
+## Graduate Teaching Assistantship, University of Waterloo - Waterloo, ON, Canada
 
 ### [STAT 230 – Probability](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/SkybKN7Yn) 
 
@@ -109,7 +114,7 @@ This section summarizes my formal teaching roles in university-level courses.
 
 ---
 
-## Mathematics Tutoring Centre, University of Waterloo
+## Mathematics Tutoring Centre, University of Waterloo - Waterloo, ON, Canada
 
 ### [MATH 237 - Calculus III for Honours Mathematics](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/courses/rkej1YNmF2)
 
