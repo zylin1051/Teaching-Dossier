@@ -28,6 +28,7 @@ This section summarizes my formal teaching roles.
 
 **Courses I teach:**
 - MCV4U (Calculus and Vectors, Ontario Grade 12)
+- MDM4U (Mathematics of Data Management, Ontario Grade 12)
 - SPH3U (Physics, Ontario Grade 11)
 - ICS3U (Introduction to Computer Science, Ontario Grade 11)
 
