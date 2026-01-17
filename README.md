@@ -10,7 +10,7 @@ Hello and welcome to my teaching dossier. This teaching dossier provides an over
 
 
 ## Contact & Curriculum Vitae
-View my CV [here](Ziye_Lin_CV.pdf).
+View my teaching CV [here](Ziye_Lin_CV.pdf).
 
 Email: [connzylin@gmail.com](mailto:connzylin@gmail.com)  
 <!--GitHub: [https://github.com/zylin1051](https://github.com/zylin1051)-->
