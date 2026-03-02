@@ -25,8 +25,9 @@ This section summarizes my formal teaching roles.
 
 **Responsibilities:**
 - Teaching OSSD credit courses according to Ontario Ministry of Education's Curriculum
+- Completing student report card; full responsibility for attendance recording, assessment design, and maintaining inspection-quality teaching binders
 
-**Courses I teach:**
+**Courses:**
 - MCV4U (Calculus and Vectors, Ontario Grade 12)
 - MDM4U (Mathematics of Data Management, Ontario Grade 12)
 - SPH3U (Physics, Ontario Grade 11)
