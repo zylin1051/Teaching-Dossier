@@ -7,14 +7,14 @@ This section summarizes my formal teaching roles.
 
 | Term/Date        | Course         | Role         | Teaching Format    |
 |-------------|----------------|--------------|---------------------|
-| Nov. 2025 - Ongoing     | OSSD Credit Courses | Teacher | Full-time Teaching
-| May. 2025 – Aug. 2025    | STAT 230       | Teaching Assistant      | Tutorials, Discussion Forum, Grading, Proctoring |
-| May. 2025 – Aug. 2025    |   STAT 331       | Teaching Assistant           | Grading, Proctoring|
+| Nov. 2025 - Ongoing     | Ontario High School Credit Courses | Secondary School Teacher | Full-time Teaching
+| May. 2025 – Aug. 2025    | STAT 230       | Graduate Teaching Assistant      | Tutorials, Discussion Forum, Grading, Proctoring |
+| May. 2025 – Aug. 2025    |   STAT 331       | Graduate Teaching Assistant           | Grading, Proctoring|
 | Mar. 21, 2025            | STAT 231       | Guest Lecturer | **Topic:** Gaussian Response Models
-| Jan. 2025 - Apr. 2025     | STAT 330       | Teaching Assistant           | Grading, Proctoring       |
-| Jan. 2025 - Apr. 2025     | STAT 332       | Teaching Assistant           |  Discussion Forum, Grading, Proctoring     |
-| Sep. 2024 - Dec. 2024      | STAT 230       | Teaching Assistant           | Discussion Forum, Grading, Proctoring |
-| Sep. 2024 - Dec. 2024      | STAT 330       | Teaching Assistant           | Office Hour, Discussion Forum, Grading, Proctoring|
+| Jan. 2025 - Apr. 2025     | STAT 330       | Graduate Teaching Assistant           | Grading, Proctoring       |
+| Jan. 2025 - Apr. 2025     | STAT 332       | Graduate Teaching Assistant           |  Discussion Forum, Grading, Proctoring     |
+| Sep. 2024 - Dec. 2024      | STAT 230       | Graduate Teaching Assistant           | Discussion Forum, Grading, Proctoring |
+| Sep. 2024 - Dec. 2024      | STAT 330       | Graduate Teaching Assistant           | Office Hour, Discussion Forum, Grading, Proctoring|
 | Jan. 2023 - Apr. 2023     | MATH 237      | Tutor        | One-on-One Tutoring |
 
 ---
