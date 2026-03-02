@@ -29,11 +29,11 @@ Use the links below to explore individual components of my dossier:
 
 ## Background
 
-I obtained my Bachelor of Mathematics in Statistics and Master of Mathematics in Biostatistics from the University of Waterloo, Ontario, Canada. Prior to my studies at Waterloo, I completed my Ontario Secondary School Diploma in Mississauga, Ontario, Canada, where I received the Governor General of Canada's Academic Bronze Medal in 2019. My coursework involves advanced calculus, differential equation, mathematical statistics and probability, survival analysis, and applied physics.
+I completed my Bachelor of Mathematics in Statistics and Master of Mathematics in Biostatistics from the University of Waterloo, Ontario, Canada. Prior to my studies at Waterloo, I completed my Ontario Secondary School Diploma in Mississauga, Ontario, Canada, where I received the Governor General of Canada's Academic Bronze Medal in 2019. My coursework involves advanced calculus, differential equation, mathematical statistics and probability theory, causal inference, survival analysis, and applied physics.
 
 I have actively engaged in teaching activities and developed effective teaching skills throughout my studies at the University of Waterloo. These experiences include tutoring, delivering tutorial sessions, holding office hours to provide individual help to students, and participating in teaching workshops. I have also completed a formal teaching training course for which I delivered a guest lecture to a live undergraduate course. My passion for teaching extends beyond the post-secondary level to secondary education as well.
 
-I am currectly holding a full-time teaching position at William Academy (Cobourg Campus).
+I currectly hold a full-time teaching position at [William Academy (Cobourg Campus)](https://williamacademy.ca/).
 
 
 
