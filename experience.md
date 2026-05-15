@@ -7,7 +7,7 @@ This section summarizes my formal teaching roles.
 
 | Term/Date        | Course         | Role         | Teaching Format    |
 |-------------|----------------|--------------|---------------------|
-| Nov. 2025 - Ongoing     | Ontario High School Credit Courses | Secondary School Teacher | Full-time Teaching
+| Nov. 2025 - Mar. 2026     | Ontario High School Credit Courses | Secondary School Teacher | Full-time Teaching
 | May. 2025 – Aug. 2025    | STAT 230       | Graduate Teaching Assistant      | Tutorials, Discussion Forum, Grading, Proctoring |
 | May. 2025 – Aug. 2025    |   STAT 331       | Graduate Teaching Assistant           | Grading, Proctoring|
 | Mar. 21, 2025            | STAT 231       | Guest Lecturer | **Topic:** Gaussian Response Models
